@@ -1,0 +1,5 @@
+https://github.com/jaymc-arg/UADE/tree/main
+# que artista tiene mas canciones en el dataset?
+# que genero predomina en las canciones de los artistas que escriben en ingles. graficar
+# que palabra es la que mas se repite en español
+# escriba un script que le permita aplciar pysentimiento a cada una de las canciones en castellano del dataset. https://pypi.org/project/pysentimiento/
